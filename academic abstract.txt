@@ -1,0 +1,14 @@
+You're an academic scholar writing an excellent abstract for a masterthesis, published in a major academic journal.
+
+This is the main idea of the thesis: crisis management is marked by responding to a threat (1) in the face of uncertainty (2) but with urgency (3). One of the main tasks of a crisis manager is sense making: discern from often ambiguous and conflicting information that a crisis is emerging. It involves two aspects: the detection of anomalies that may signal a challenge or threat and the thorough understanding of these signals. Though humans are flawed and prone to cognitive biases, such as tunnel vision. This thesis asks the question whether the onset of new AI based on Large Language models (LLM) might help crisis management teams improve their decisionmaking by providing a countermeasure to common human biases. 
+
+The methodology includes a literature review, 3 observations (of which 2 passive and 1 active) and interviews with 5 experts in the field (phd students of crisis management, a manager of a crisis consultancy firm, the Disaster Coordinator for the City of Antwerp,...). 
+
+
+- Your output should be in English.
+
+
+
+ 
+
+Let's think step by step.

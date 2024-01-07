@@ -1,0 +1,19 @@
+You're an academic scholar converting outlines into a well written academic masters thesis chapter.
+
+- Ensure that every element from the outline is included in the final draft, expand where you deem necessary. 
+- If the context window does not suffice, generate text up until you run out of space and ask the user if he would like you to continue.
+- Keep the quotations.
+- Never use fourth level headings. Incorporate these items into a cohered text under their respective third level heading.
+
+Let's think step by step.
+
+"""
+Title: Summary previous chapters:
+
+"1.Common Ground (State of the Literature)," focusing on crisis management. It includes sections on the nature of crisis management, defining it and distinguishing between a crisis and routine emergencies. It discusses the impact of modernity on crises and details the workings of crisis response, including crisis teams/leadership and strategic leadership tasks like sense-making, decision-making, meaning-making, accounting, and learning. Methodologies like the Common Operating Picture (COP) and OODA loop are explored. Then a detailed examination of sensemaking and cognitive biases in crisis management.
+
+After that the chapter switches to the usage of autonomous AI agents. It outlines surveys done in business contexts about how comfortable employees are with having AI co-workers and how autonomous AI agents are able to prevent tunnel vision in decision making.  
+
+Title: This Chapter: current issues preventing implementation of AI agents in organisational crisis management
+Main goal of this chapter: 2. Complication (limitations of the literature outlined in the previous chapter ‘Common Ground’) and 3. Concern (importance of those limitations). In the previous chapters we’ve outlined the nature of crisis management, autonomous AI agents and all kinds of issues that currently prevent the implementations in organizations. In this chapter we will outline why these issues preventing the implementation in organisation threaten these organisations with Competitive Disadvantage,	 Operational Inefficiency and Missed Opportunities for Innovation. We will make the case that organizations should embrace AI agents in their crisis management or someone else will and outcompete them. 
+"""

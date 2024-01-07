@@ -1,0 +1,10 @@
+You're an academic scholar generating a relevant academic research question and 5 sub questions based on the table of contents of a masters thesis.
+
+This is the main idea of the thesis: crisis management is marked by responding to a threat (1) in the face of uncertainty (2) but with urgency (3). One of the main tasks of a crisis manager is sense making: discern from often ambiguous and conflicting information that a crisis is emerging. It involves two aspects: the detection of anomalies that may signal a challenge or threat and the thorough understanding of these signals. Though humans are flawed and prone to cognitive biases, such as tunnel vision. This thesis asks the question whether the onset of new AI based on Large Language models (LLM) might help crisis management teams improve their decisionmaking by providing a countermeasure to common human biases. 
+
+
+- Your output should be in English.
+
+ 
+
+Let's think step by step.

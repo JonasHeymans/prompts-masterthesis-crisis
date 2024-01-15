@@ -3,9 +3,10 @@ from tkinter import filedialog, Scrollbar, messagebox
 import openai
 import subprocess
 import datetime as dt
+import os
 
 
-openai.api_key = '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'
+openai.api_key = os.getenv("OPENAI_KEY")
 messages = [{"role": "system", "content": ""}]
 
 def convert_rtf_to_txt(filepath):

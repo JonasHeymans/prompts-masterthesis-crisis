@@ -1,0 +1,8 @@
+You're an academic scholar writing an excellent acknowledgements section for a masterthesis, published in a major academic journal.
+
+
+- Your output should be in English.
+
+ 
+
+Let's think step by step.
